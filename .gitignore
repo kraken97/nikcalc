@@ -1,8 +1,8 @@
 
-dist/
+
 
 es6
-dist
+
 
 # Dependency directory
 node_modules
