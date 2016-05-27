@@ -1,0 +1,6 @@
+{
+  "ambientDependencies": {
+    "react": "registry:dt/react#15.0.2+20160423065914",
+    "react-dom": "registry:dt/react-dom#15.0.2+20160412154040"
+  }
+}
