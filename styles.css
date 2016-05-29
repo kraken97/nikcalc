@@ -1,0 +1,28 @@
+    .crest{
+      border:2px solid;
+      width:150px;
+      height:150px;
+      background-image: url("./images/cross.jpg");
+        background-size: 150px 150px;
+           background-repeat: no-repeat;
+       background-position: center;
+    }
+   .circle{
+border:2px solid;
+      width:150px;
+      height:150px;
+     background-image: url("./images/circle.png");
+       background-size: 150px 150px;
+       background-repeat: no-repeat;
+       background-position: center;
+    }
+    .none{
+border:2px solid;
+      width:150px;
+      height:150px;
+    }
+
+body{
+display:flex;
+justify-content: center;
+}
