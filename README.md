@@ -27,7 +27,7 @@ ___
  
  
  ___
- ##3.Наочне представлення
+##3.Наочне представлення
  
  ![](http://i.imgur.com/Nt28owL.png)
  ![](http://i.imgur.com/ZL4ivNq.png)
