@@ -1,0 +1,13 @@
+
+
+
+es6
+
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+typings
+
